@@ -31,6 +31,7 @@ namespace _03_MakingDesicion
             //{
             //    Console.Write("Veriler doğrulandı");
             //}
+           // deneasdadsa
 
             //else { 
             
